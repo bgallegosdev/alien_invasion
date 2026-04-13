@@ -4,3 +4,5 @@
 # Date: April 13, 2026 (start date)
 
 # I have installed pygame
+import pygame
+pygame.version.ver
