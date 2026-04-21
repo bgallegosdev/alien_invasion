@@ -12,3 +12,6 @@ Program Development:
     Refactor _update_screen
     Refactor _check_events
     Submit alien_invasion.py - part 1
+    Piloting the Ship
+    Refactored keyup & keydown events
+    Submit alien_invasion.py - part 2
