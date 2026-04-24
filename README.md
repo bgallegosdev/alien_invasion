@@ -15,3 +15,7 @@ Program Development:
     Piloting the Ship
     Refactored keyup & keydown events
     Submit alien_invasion.py - part 2
+    Create a Bullet Child Class
+    Weaponized our ship
+    Refactor _update_bullets
+    Submit alien_invasion.py - part 3
