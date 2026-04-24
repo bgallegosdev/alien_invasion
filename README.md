@@ -19,3 +19,9 @@ Program Development:
     Weaponized our ship
     Refactor _update_bullets
     Submit alien_invasion.py - part 3
+    Create an Alien Child Class
+    Created a Fleet of Aliens
+    Submit alien_invasion.py - part 4
+
+Assets:
+Links:
