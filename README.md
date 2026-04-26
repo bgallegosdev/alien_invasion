@@ -22,6 +22,8 @@ Program Development:
     Create an Alien Child Class
     Created a Fleet of Aliens
     Submit alien_invasion.py - part 4
+    Moved the Aliens left/right and down
+    Submit alien_invasion.py - part 5
 
 Assets:
 Links:
