@@ -3,6 +3,9 @@
 # Assignment: Final Exam
 # Date: April 13, 2026 (start date)
 # Reference : see readme.md
+# Comments: I made my own settings different from the videos:
+#           -Alien's Speed
+#           -Bullet Speed/Sizing
 
 # I have installed pygame
 import sys # module for OS
@@ -102,6 +105,9 @@ class AlienInvasion:
             if bullet.rect.bottom <= 0:
                 self.bullets.remove(bullet)
         # print( len(self.bullets) )
+
+        collisions = pygame.sprite.groupcollide( self.bullets, self.aliens, True, True )
+
 
     def _update_screen(self):
         # Redraw the screen during each pass of the loop

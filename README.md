@@ -24,6 +24,8 @@ Program Development:
     Submit alien_invasion.py - part 4
     Moved the Aliens left/right and down
     Submit alien_invasion.py - part 5
+    Collision with bullets
+    Submit alien_invasion.py - part 6
 
 Assets:
 Links:
